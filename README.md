@@ -16,3 +16,5 @@ channels to contact or following me:
 - [Telegram](https://t.me/amirkho_ir)
 - [Instagram](https://instagram.com/amirkho.ir)
 - [Mail](mailto:me@amirkho.ir)
+
+![Amirhossein Khosravi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amirkho-py&show_icons=true&theme=dracula)
