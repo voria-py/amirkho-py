@@ -5,8 +5,8 @@ Hello world and welcome to my Github!👋
 <br>
 <br>
 I'm Software developer and use following Programming languages and framework:
-- python
-- django
+- python and some modules such as fastAPI , openCV and...
+- django & DRF 
 - dart
 - flutter
 - solidity
