@@ -1,5 +1,4 @@
 ## Amirhossein Khosravi 
-![amirkho-py](amirkho-github.png)
 <br>
 Hello world and welcome to my Github!👋
 <br>
